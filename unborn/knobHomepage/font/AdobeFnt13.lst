@@ -1,0 +1,212 @@
+%!Adobe-FontList 1.13
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Black
+FamilyName:Titillium Web
+StyleName:Black
+FullName:Titillium WebBlack
+MenuName:Titillium Web
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-Black.ttf
+DataFormat:sfntData
+FileLength:49356
+FileModTime:1357564708
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Bold
+FamilyName:Titillium Web
+StyleName:Bold
+FullName:Titillium WebBold
+MenuName:Titillium Web
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-Bold.ttf
+DataFormat:sfntData
+FileLength:59908
+FileModTime:1357564708
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-BoldItalic
+FamilyName:Titillium Web
+StyleName:Bold Italic
+FullName:Titillium WebBold Italic
+MenuName:Titillium Web
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:69796
+FileModTime:1357564708
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Thin
+FamilyName:Titillium Web
+StyleName:Thin
+FullName:Titillium WebThin
+MenuName:Titillium Web
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-ExtraLight.ttf
+DataFormat:sfntData
+FileLength:63124
+FileModTime:1357564708
+WeightClass:200
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-ThinItalic
+FamilyName:Titillium Web
+StyleName:Thin Italic
+FullName:Titillium WebThin Italic
+MenuName:Titillium Web
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-ExtraLightItalic.ttf
+DataFormat:sfntData
+FileLength:67788
+FileModTime:1357564708
+WeightClass:200
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Italic
+FamilyName:Titillium Web
+StyleName:Italic
+FullName:Titillium WebItalic
+MenuName:Titillium Web
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-Italic.ttf
+DataFormat:sfntData
+FileLength:72416
+FileModTime:1357564708
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Light
+FamilyName:Titillium Web
+StyleName:Light
+FullName:Titillium WebLight
+MenuName:Titillium Web
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-Light.ttf
+DataFormat:sfntData
+FileLength:64032
+FileModTime:1357564708
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-LightItalic
+FamilyName:Titillium Web
+StyleName:Light Italic
+FullName:Titillium WebLight Italic
+MenuName:Titillium Web
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-LightItalic.ttf
+DataFormat:sfntData
+FileLength:71720
+FileModTime:1357564708
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Regular
+FamilyName:Titillium Web
+StyleName:Regular
+FullName:Titillium Web
+MenuName:Titillium Web
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-Regular.ttf
+DataFormat:sfntData
+FileLength:63752
+FileModTime:1357564708
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-SemiBold
+FamilyName:Titillium Web
+StyleName:SemiBold
+FullName:Titillium WebSemiBold
+MenuName:Titillium Web
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-SemiBold.ttf
+DataFormat:sfntData
+FileLength:63044
+FileModTime:1357564708
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-SemiBoldItalic
+FamilyName:Titillium Web
+StyleName:SemiBold Italic
+FullName:Titillium WebSemiBold Italic
+MenuName:Titillium Web
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\EDNA\standard web\gregwebsite\Monsite_v3\Font\TitilliumWeb-SemiBoldItalic.ttf
+DataFormat:sfntData
+FileLength:71812
+FileModTime:1357564708
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+

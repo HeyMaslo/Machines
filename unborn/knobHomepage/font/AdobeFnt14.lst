@@ -1,0 +1,554 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Black
+FamilyName:Montserrat
+StyleName:Black
+FullName:Montserrat Black
+MenuName:Montserrat Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-Black.ttf
+DataFormat:sfntData
+FileLength:194544
+FileModTime:1323766800
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-BlackItalic
+FamilyName:Montserrat
+StyleName:Black Italic
+FullName:Montserrat Black Italic
+MenuName:Montserrat Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-BlackItalic.ttf
+DataFormat:sfntData
+FileLength:190120
+FileModTime:1323766800
+WeightClass:900
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-Bold.ttf
+DataFormat:sfntData
+FileLength:191648
+FileModTime:1323766800
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-BoldItalic
+FamilyName:Montserrat
+StyleName:Bold Italic
+FullName:Montserrat Bold Italic
+MenuName:Montserrat
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:195604
+FileModTime:1323766800
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBold
+FamilyName:Montserrat
+StyleName:ExtraBold
+FullName:Montserrat ExtraBold
+MenuName:Montserrat ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-ExtraBold.ttf
+DataFormat:sfntData
+FileLength:191644
+FileModTime:1323766800
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBoldItalic
+FamilyName:Montserrat
+StyleName:ExtraBold Italic
+FullName:Montserrat ExtraBold Italic
+MenuName:Montserrat ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-ExtraBoldItalic.ttf
+DataFormat:sfntData
+FileLength:191664
+FileModTime:1323766800
+WeightClass:800
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraLight
+FamilyName:Montserrat
+StyleName:ExtraLight
+FullName:Montserrat ExtraLight
+MenuName:Montserrat ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-ExtraLight.ttf
+DataFormat:sfntData
+FileLength:196472
+FileModTime:1323766800
+WeightClass:275
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraLightItalic
+FamilyName:Montserrat
+StyleName:ExtraLight Italic
+FullName:Montserrat ExtraLight Italic
+MenuName:Montserrat ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-ExtraLightItalic.ttf
+DataFormat:sfntData
+FileLength:194348
+FileModTime:1323766800
+WeightClass:275
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Italic
+FamilyName:Montserrat
+StyleName:Italic
+FullName:Montserrat Italic
+MenuName:Montserrat
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-Italic.ttf
+DataFormat:sfntData
+FileLength:191936
+FileModTime:1323766800
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+FullName:Montserrat Light
+MenuName:Montserrat Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-Light.ttf
+DataFormat:sfntData
+FileLength:192116
+FileModTime:1323766800
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-LightItalic
+FamilyName:Montserrat
+StyleName:Light Italic
+FullName:Montserrat Light Italic
+MenuName:Montserrat Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-LightItalic.ttf
+DataFormat:sfntData
+FileLength:192128
+FileModTime:1323766800
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+FullName:Montserrat Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-Medium.ttf
+DataFormat:sfntData
+FileLength:192488
+FileModTime:1323766800
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-MediumItalic
+FamilyName:Montserrat
+StyleName:Medium Italic
+FullName:Montserrat Medium Italic
+MenuName:Montserrat Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-MediumItalic.ttf
+DataFormat:sfntData
+FileLength:193096
+FileModTime:1323766800
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat Regular
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-Regular.ttf
+DataFormat:sfntData
+FileLength:190648
+FileModTime:1323766800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+FullName:Montserrat SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-SemiBold.ttf
+DataFormat:sfntData
+FileLength:192268
+FileModTime:1323766800
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBoldItalic
+FamilyName:Montserrat
+StyleName:SemiBold Italic
+FullName:Montserrat SemiBold Italic
+MenuName:Montserrat SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-SemiBoldItalic.ttf
+DataFormat:sfntData
+FileLength:192648
+FileModTime:1323766800
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-Thin.ttf
+DataFormat:sfntData
+FileLength:191468
+FileModTime:1323766800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ThinItalic
+FamilyName:Montserrat
+StyleName:Thin Italic
+FullName:Montserrat Thin Italic
+MenuName:Montserrat Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\Montserrat-ThinItalic.ttf
+DataFormat:sfntData
+FileLength:192540
+FileModTime:1323766800
+WeightClass:250
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Black
+FamilyName:Titillium Web
+StyleName:Black
+FullName:Titillium WebBlack
+MenuName:Titillium Web
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-Black.ttf
+DataFormat:sfntData
+FileLength:49356
+FileModTime:1445292518
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Bold
+FamilyName:Titillium Web
+StyleName:Bold
+FullName:Titillium WebBold
+MenuName:Titillium Web
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-Bold.ttf
+DataFormat:sfntData
+FileLength:59908
+FileModTime:1445292518
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-BoldItalic
+FamilyName:Titillium Web
+StyleName:Bold Italic
+FullName:Titillium WebBold Italic
+MenuName:Titillium Web
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:69796
+FileModTime:1445292518
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Thin
+FamilyName:Titillium Web
+StyleName:Thin
+FullName:Titillium WebThin
+MenuName:Titillium Web
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-ExtraLight.ttf
+DataFormat:sfntData
+FileLength:63124
+FileModTime:1445292518
+WeightClass:200
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-ThinItalic
+FamilyName:Titillium Web
+StyleName:Thin Italic
+FullName:Titillium WebThin Italic
+MenuName:Titillium Web
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-ExtraLightItalic.ttf
+DataFormat:sfntData
+FileLength:67788
+FileModTime:1445292518
+WeightClass:200
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Italic
+FamilyName:Titillium Web
+StyleName:Italic
+FullName:Titillium WebItalic
+MenuName:Titillium Web
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-Italic.ttf
+DataFormat:sfntData
+FileLength:72416
+FileModTime:1445292518
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Light
+FamilyName:Titillium Web
+StyleName:Light
+FullName:Titillium WebLight
+MenuName:Titillium Web
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-Light.ttf
+DataFormat:sfntData
+FileLength:64032
+FileModTime:1445292518
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-LightItalic
+FamilyName:Titillium Web
+StyleName:Light Italic
+FullName:Titillium WebLight Italic
+MenuName:Titillium Web
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-LightItalic.ttf
+DataFormat:sfntData
+FileLength:71720
+FileModTime:1445292518
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-Regular
+FamilyName:Titillium Web
+StyleName:Regular
+FullName:Titillium Web
+MenuName:Titillium Web
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-Regular.ttf
+DataFormat:sfntData
+FileLength:63752
+FileModTime:1445292518
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-SemiBold
+FamilyName:Titillium Web
+StyleName:SemiBold
+FullName:Titillium WebSemiBold
+MenuName:Titillium Web
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-SemiBold.ttf
+DataFormat:sfntData
+FileLength:63044
+FileModTime:1445292518
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TitilliumWeb-SemiBoldItalic
+FamilyName:Titillium Web
+StyleName:SemiBold Italic
+FullName:Titillium WebSemiBold Italic
+MenuName:Titillium Web
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Greg\Desktop\Backup\Gregoire\Portfolio\PortfolioV6\Font\TitilliumWeb-SemiBoldItalic.ttf
+DataFormat:sfntData
+FileLength:71812
+FileModTime:1445292518
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+

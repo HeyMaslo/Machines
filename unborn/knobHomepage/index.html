@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META http-equiv="Content-Language" content="en">
+<meta NAME="Keywords" CONTENT="AI">
+<meta NAME="Author" CONTENT="Gregoire Davenas">
+<link rel="icon" type="image/png" href="image/fronthand/favicon.png" />
+
+<title>The Map</title> 
+
+
+
+<script src="Javascript/jquery-1.9.1.js" type="text/javascript"></script>
+<script src="Javascript/jquery-1.9.1.min.js" type="text/javascript"></script>
+<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
+<script src="Javascript/loader.js" type="text/javascript"></script>
+
+<link href="CSS/style.css" rel="stylesheet" type="text/css" />
+
+<meta name="viewport" content="initial-scale=0.8, maximum-scale=0.8, width=400, initial-scale=1">
+
+
+
+</head>
+
+
+
+<body>
+
+<audio autoplay loop id="audioRadio">
+      <source src="chiado.mp3" type="audio/mpeg">
+</audio>
+<audio autoplay id="moby">
+      <source src="LA10.mp3" type="audio/mpeg">
+</audio>
+
+	<div id="content">
+<div id="experienceContainer">
+</div>	
+    
+<div id="interface">
+<div id="header"></div>
+<div id="info1"></div>
+<div class="d1" id="leftContainer" style="width:30%;">
+</div>
+
+<div class="d1" style="width:40%;">
+	<div class="d2" style="height:40%;  margin-top: -11.11vh;"><div id="nameContainer"></div></div>
+	<div class="d2" style="height:100%;">
+		<div id="knob">
+			<div id="outerknob">
+				<div id="handleout" style="margin: -1vh 0 0 -1vh; cursor:crosshair;"></div>
+				<div id="innerknob">
+					<div id="handlein" style="margin: 5vh 0 0 5vh;"></div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<canvas height='300' id='myCanvas' width='400'></canvas>
+</div>
+<div class="d1" id="rightContainer" style="width:30%;">
+</div>
+<div id="personalityContainer"></div>
+
+
+<div id="bottom"></div>
+
+</div>
+
+  </div>  
+
+		
+
+
+
+
+
+
+
+<!-----------------------------------------------Javascripts-------------------------------------------------------->
+
+
+<script src='Javascript/pendulum.js' type='text/javascript'></script>
+<script src="Javascript/interface.js" type="text/javascript"></script>
+
+</body>
+</html>
