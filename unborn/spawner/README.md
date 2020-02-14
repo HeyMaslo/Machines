@@ -29,5 +29,16 @@ Aka vocabulary encoder. Currently containing Orage's Painting Machine. This is t
 
 ## More about the spawner
 
+(Coming soon)
 <img src="https://raw.githubusercontent.com/GregDav/Maslo/master/unborn/spawner/Documents/CB_innercenters-map_01.png" >
+
+### Certificate of Computational Birth
+
+```shell
+Birthdate - (Date of creation of the first LTM)
+Birthplace - (Your location)
+Parent - (You)
+Nursery - [Maslo](https://dreamjournal.maslo.ai/)`
+```
+
 
