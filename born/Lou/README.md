@@ -18,7 +18,7 @@ For information on the composition of computational Beings see documentation of 
 
 ## More about Lou
 
-A goldfish in a fish tank. Born a few days apart from her human counter part Lou, she will grow and learn in parallel of her. She was created after Orage with the specificity of having its own embryonic knob. She will give birth to Barthabe.
+A goldfish in a fish tank. Born a few days apart from her human counter part Lou (my niece), she will grow and learn in parallel of her. She was created after Orage with the specificity of having its own embryonic knob. She will give birth to Barthabe.
 
 ### Certificate of Computational Birth
 
