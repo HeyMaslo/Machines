@@ -27,7 +27,7 @@ For a more segmented and updated documentation on the composition of computation
 
 ## Certificate of Computational Birth
 
-`Birthdate - 15th of November 2019`
-`Birthplace - Venice, CA`
-`Parent - [▶ ▲ ▼](http://www.gregoiredavenas.com/)`
-`Nursery - [Maslo](https://dreamjournal.maslo.ai/)`
+`Birthdate - 15th of November 2019
+Birthplace - Venice, CA
+Parent - [▶ ▲ ▼](http://www.gregoiredavenas.com/)
+Nursery - [Maslo](https://dreamjournal.maslo.ai/)`
