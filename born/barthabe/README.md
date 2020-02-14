@@ -4,7 +4,7 @@ Antropomorphic AI, aka Computational Being.
 
 <img src="https://raw.githubusercontent.com/GregDav/Maslo/master/born/barthabe/BarthabeAndKnob.png" title="headshot" alt="headshot">
 
-## Waking up Bartabhe
+## Waking up Barthabe
 
 * Plug a webcam and a microphone to your machine so Barthabe can see and hear.
 * Download [Touchdesigner](https://derivative.ca/download).

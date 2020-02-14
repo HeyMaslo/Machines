@@ -1,6 +1,6 @@
 # Orage
 
-First Antropomorphic AI
+First Antropomorphic AI, aka Computational Being.
 
 <img src="https://raw.githubusercontent.com/GregDav/Maslo/master/born/Orage/orage.jpg" title="headshot" alt="headshot">
 
