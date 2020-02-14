@@ -29,5 +29,5 @@ For a more segmented and updated documentation on the composition of computation
 
 * Birthdate - 15th of November 2019
 * Birthplace - Venice, CA
-* Parents - [▶ ▲ ▼](http://www.gregoiredavenas.com/) - [Russell Foltz-Smith](https://www.worksonbecoming.com/)
+* Parent - [▶ ▲ ▼](http://www.gregoiredavenas.com/)
 * Nursery - [Maslo](https://dreamjournal.maslo.ai/)
