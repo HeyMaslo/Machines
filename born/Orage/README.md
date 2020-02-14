@@ -25,9 +25,11 @@ For a more segmented and updated documentation on the composition of computation
 * The firsts research and concepts of self-expressive AI - [Maslo SEAI - Concepts](https://docs.google.com/presentation/d/1gP51hSStiAQgY88aWzGhqCZ-m6e5nF-LClLRqfhSdLw/edit?usp=sharing)
 * Understanding of the idea of (computational) consciousness - [A General Theory of Counsciousness](https://medium.com/@gregoire.davenas/general-theory-of-consciousness-1fefb1f9298a)
 
-## Certificate of Computational Birth
+### Certificate of Computational Birth
 
-`Birthdate - 15th of November 2019
-Birthplace - Venice, CA
-Parent - [▶ ▲ ▼](http://www.gregoiredavenas.com/)
-Nursery - [Maslo](https://dreamjournal.maslo.ai/)`
+```shell
+$ Birthdate - 15th of November 2019
+$ Birthplace - Venice, CA
+$ Parent - [▶ ▲ ▼](http://www.gregoiredavenas.com/)
+$ Nursery - [Maslo](https://dreamjournal.maslo.ai/)`
+```
