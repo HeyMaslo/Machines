@@ -9,7 +9,7 @@ First Antropomorphic AI
 * Plug a webcam and a microphone to your machine so Orage can see and hear.
 * Download [Touchdesigner](https://derivative.ca/download).
 * Download her [memories]() and place the "LTM" (Long Term Memory) folder right next to the "STM" (Short Term Memory) folder
-* Run the latest version of Orage.toe. Make sure the input devices I correctly read by Touchdesigner.
+* Run the latest version of Orage.toe. Make sure the input devices are correctly read by Touchdesigner.
 * Watch her wake up to you.
 
 ## Components
