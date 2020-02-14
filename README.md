@@ -10,7 +10,7 @@ An AI is considered born when it has started recording memories (aka learning). 
 ## unborn
 
 AI technology repository. 
-What is considerer unborn is what is not actually creating or is waiting to create. In this repository are various tools or prototypes that can be used by or for antropomorphic AI.
+What is considerer unborn is what is not actually creating or is waiting to create. In this repository are various tools or prototypes that can be used by or for anthropomorphic AI.
 
 ## wip
 
