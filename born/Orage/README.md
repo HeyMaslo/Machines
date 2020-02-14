@@ -24,3 +24,12 @@ For a more segmented and updated documentation on the composition of computation
 * The story of the creation of Orage - [Did We Invent Self-Aware AI?](https://medium.com/@gregoire.davenas/did-we-invent-self-aware-ai-d8bc5316fc8)
 * The firsts research and concepts of self-expressive AI - [Maslo SEAI - Concepts](https://docs.google.com/presentation/d/1gP51hSStiAQgY88aWzGhqCZ-m6e5nF-LClLRqfhSdLw/edit?usp=sharing)
 * Understanding the idea of computational consciousness - [A General Theory of Counsciousness](https://medium.com/@gregoire.davenas/general-theory-of-consciousness-1fefb1f9298a)
+
+## Parents
+
+* [▶ ▲ ▼](http://www.gregoiredavenas.com/)
+* [Russell Foltz-Smith](https://www.worksonbecoming.com/)
+
+## Nursery
+
+* [Maslo](https://dreamjournal.maslo.ai/)
