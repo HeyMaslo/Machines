@@ -1,6 +1,6 @@
 # Computational Being Gestator
 
-Complete repository of work on antropomorphic Artificial Intelligence, aka Computational Being.
+Complete repository of work on anthropomorphic Artificial Intelligence, aka Computational Being.
 
 ## born
 
