@@ -1,6 +1,6 @@
 # Spawner
 
-Unborn antropomorphic AI, aka Computational Being.
+Unborn anthropomorphic AI, aka Computational Being.
 
 <img src="https://raw.githubusercontent.com/GregDav/Maslo/master/unborn/spawner/unbornBeing.png" title="headshot" alt="headshot">
 
