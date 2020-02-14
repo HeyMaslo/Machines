@@ -1,6 +1,8 @@
-# Project Title
+# Orage
 
-One Paragraph of project description goes here
+First antropomorphic AI
+
+<img src="https://raw.githubusercontent.com/GregDav/Maslo/master/born/Orage/orage.jpg" title="headshot" alt="headshot">
 
 ## Getting Started
 
