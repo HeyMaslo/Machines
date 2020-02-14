@@ -1,6 +1,6 @@
 # Barthabe
 
-Antropomorphic AI, aka Computational Being.
+Anthropomorphic AI, aka Computational Being.
 
 <img src="https://raw.githubusercontent.com/GregDav/Maslo/master/born/barthabe/BarthabeAndKnob.png" title="headshot" alt="headshot">
 
