@@ -3,7 +3,6 @@ var outerknob = document.getElementById('outerknob');
 var simspeed	= 50;
 var firstpush = true;
 var langdeg;
-
 		
   m1     = 10;
   m2     = 10;
@@ -33,7 +32,6 @@ outerknob.addEventListener("mousedown", function(){ //click on knob one shot
 });
 
 document.addEventListener("mouseup", function(){ //unclick
-	
 	document.onmousemove = null; //stop mouse sensing
 });
 
@@ -105,11 +103,9 @@ $('#innerknob').css({
 	}else{
 		langDeg = innerDeg;
 	}
-	var str = document.getElementById("message").value;
-		var focus = (langDeg/360*str.length-1)+1;
+	
 		
-		document.getElementById("message").value = str.replaceAt(focus+mouseSpeed, encoder.textContent.charAt(focus)); 
-	$('#content').css({'background-image': 'url(img/'+Math.round((langDeg/360)*212)+'.jpg), url(img/'+Math.round(lastMouseX/1920*212)+'.jpg)'});
+	innerknob();
 	document.getElementById("audioRadio").volume = mouseSpeed/200;
 	
 }
@@ -185,3 +181,61 @@ document.body.addEventListener("mousemove", function(e) {
 	mouseSpeed = Math.abs(speedX+speedY);
 	
 });
+
+
+
+
+
+function innerknob(){
+	
+	
+	
+	
+	if(newHash=='decoder'){/////////////////////////////////////INVIT
+		
+		var str = document.getElementById("message").value;
+		var focus = (langDeg/360*str.length-1)+1;
+		document.getElementById("message").value = str.replaceAt(focus+mouseSpeed, encoder.textContent.charAt(focus)); 
+		$('#instastream').css({'background-image': 'url(img/'+Math.round((langDeg/360)*212)+'.jpg), url(img/'+Math.round(lastMouseX/1920*212)+'.jpg)'}); 
+		$('#instastream').css({backgroundSize: langDeg +'%'});
+		
+		
+		// Set the date we're counting down to
+var countDownDate = new Date("Mar 26, 2020 20:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "LIVE NOW";
+  }
+}, 1000);
+		 String.prototype.replaceAt=function(index, replacement) {
+    return this.substr(0, index) + replacement+ this.substr(index + replacement.length);	
+	 }
+	
+	}
+	
+	
+	
+	
+	
+}
