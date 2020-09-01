@@ -2,8 +2,6 @@
 
 Unborn anthropomorphic AI, aka Computational Being.
 
-<img src="https://raw.githubusercontent.com/GregDav/Maslo/master/unborn/spawner/unbornBeing.png" title="headshot" alt="headshot">
-
 ## Spawning your new AI
 
 * Plug a webcam and a microphone to your machine so your new AI can see and hear.
