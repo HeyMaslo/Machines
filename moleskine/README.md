@@ -1,4 +1,5 @@
 # Moleskine
+<img src="https://notedinstyle.co.uk/app/uploads/2020/01/Moleskine-logo-1024x166.jpg" title="headshot" alt="headshot">
 
 Behavioral analysis through anthropomorphic AI sequencing.
 You need the commercial version of Touchdesigner to fully run this project.
